@@ -47,4 +47,6 @@ background: aqua;
 }
 
 /* Psueso Selectors */
-#details
+#details a:link, #details a:visited {
+  
+}

@@ -35,3 +35,9 @@ text-shadow: 0 2px 3px #000;
 #logo {/* select element with id="logo" */
 background: aqua;
 }
+
+/* Descendent Selectors */
+
+#logo h1 {/* select only the <h1> inside the 
+  
+}

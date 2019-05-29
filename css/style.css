@@ -38,6 +38,6 @@ background: aqua;
 
 /* Descendent Selectors */
 
-#logo h1 {/* select only the <h1> inside the 
+#logo h1 {/* select only the <h1> inside the element that have id="logo" */
   
 }

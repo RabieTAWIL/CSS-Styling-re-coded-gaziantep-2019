@@ -45,3 +45,5 @@ background: aqua;
 #logo h2 {/* select only the <h1> inside the element that have id="logo" */
   font-family: 'Elsie Swash Caps',cursive;
 }
+
+/* Psueso Selectors */

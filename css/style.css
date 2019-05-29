@@ -5,4 +5,5 @@ Syntax
 */
 
 p { /* select all p element */
-font-size: 16px; /* 
+font-size: 16px; /* 16px ?pt 100% 1em */
+}

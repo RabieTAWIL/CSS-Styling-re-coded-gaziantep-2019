@@ -39,5 +39,9 @@ background: aqua;
 /* Descendent Selectors */
 
 #logo h1 {/* select only the <h1> inside the element that have id="logo" */
-  font-family: 'Clicker Script',
+  font-family: 'Clicker Script',cursive;
+}
+
+#logo h2 {/* select only the <h1> inside the element that have id="logo" */
+  font-family: 'Clicker Script',cursive;
 }
